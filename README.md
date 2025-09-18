@@ -1,6 +1,6 @@
 ## Olá eu sou Guilherme do Nascimento Bezerra
 
-![Anurag's GitHub stats &theme=](https://github-readme-stats.vercel.app/api?username=GuilhermeNascimento-bit&show_icons=true&icon_color=FFF347&border_color=171515&hide=,ors,issues&theme=dark#gh-dark-mode-only)
+![Anurag's GitHub stats &theme=](https://github-readme-stats.vercel.app/api?username=GuilhermeNascimento-bit&show_icons=true&icon_color=2f80ED&border_color=0D1117&bg_color=0D1117&hide=,ors,issues&theme=dark#gh-dark-mode-only)
 
 <div style="display: inline_block"><br>
  
