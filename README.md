@@ -1,15 +1,33 @@
-## Hi, I'm Guilherme and welcome to my Github
+<h1>  
 
-![Anurag's GitHub stats &theme=](https://github-readme-stats.vercel.app/api?username=GuilhermeNascimento-bit&show_icons=true&icon_color=2f80ED&border_color=0D1117&bg_color=0D1117&hide=,ors,issues&theme=dark#gh-dark-mode-only)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeNascimento-bit&bg_color=0D1117&border_color=0D1117&hide_progress=true)
-
-<div style="display: inline_block"><br>
+  
+  <div align="left">
+  
+  <p>Software Developer</p> 
  
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="top" alt="Rafa-Python" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="top" alt="Rafa-HTML" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="top" alt="Rafa-CSS" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   </div>
+</h1>
+<div align="center"><!-- MAIN DIV........................................................ -->
+
+    
+
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=GuilhermeNascimento-bit&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GuilhermeNascimento-bit&hide=Html&theme=nord_dark) |
+| :-: | :-: |
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GuilhermeNascimento-bit&theme=nord_dark)|
+| :-: |
+
+<div align="center">
+  <img align="" alt="figma-"  height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
+  <img align="" alt="git-"  height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+  <img align="" alt="vsCode-"  height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
+  </div>
+
   
   ##
  
