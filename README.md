@@ -2,6 +2,8 @@
 
 ![Anurag's GitHub stats &theme=](https://github-readme-stats.vercel.app/api?username=GuilhermeNascimento-bit&show_icons=true&icon_color=2f80ED&border_color=0D1117&bg_color=0D1117&hide=,ors,issues&theme=dark#gh-dark-mode-only)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+
 <div style="display: inline_block"><br>
  
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
