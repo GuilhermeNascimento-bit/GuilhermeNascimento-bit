@@ -13,20 +13,6 @@
 </h1>
 <div align="center"><!-- MAIN DIV........................................................ -->
 
-    
-
-
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=GuilhermeNascimento-bit&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GuilhermeNascimento-bit&hide=Html&theme=nord_dark) |
-| :-: | :-: |
-
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GuilhermeNascimento-bit&theme=nord_dark)|
-| :-: |
-
-<div align="center">
-  <img align="" alt="figma-"  height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
-  <img align="" alt="git-"  height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-  <img align="" alt="vsCode-"  height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
-  </div>
 
   
   ##
