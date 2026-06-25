@@ -9,13 +9,11 @@
   <img align="top" alt="Rafa-Python" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="top" alt="Rafa-HTML" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="top" alt="Rafa-CSS" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+   <img align="top" alt="Rafa-Python" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   </div>
 </h1>
 <div align="center"><!-- MAIN DIV........................................................ -->
 
-
-  
-  ##
  
 <div> 
   <a href="https://www.instagram.com/gui_nb15" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
